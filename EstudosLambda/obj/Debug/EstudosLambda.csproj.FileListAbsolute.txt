@@ -1,0 +1,6 @@
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\bin\Debug\EstudosLambda.exe.config
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\obj\Debug\EstudosLambda.csprojResolveAssemblyReference.cache
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\bin\Debug\EstudosLambda.exe
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\bin\Debug\EstudosLambda.pdb
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\obj\Debug\EstudosLambda.exe
+C:\Users\Wedson\SkyDrive\Documentos\dev\DotNet\EstudosLambda\EstudosLambda\obj\Debug\EstudosLambda.pdb
